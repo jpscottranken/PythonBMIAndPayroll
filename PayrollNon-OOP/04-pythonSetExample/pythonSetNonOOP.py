@@ -3,6 +3,8 @@
 '''
 Create a non-Object-Oriented Python console program which does the following:
 
+https://www.w3schools.com/python/python_sets_methods.asp
+
 1.	Uses one or more sets to create a payroll program which also demonstrates
 		the following Python Set methods:
 

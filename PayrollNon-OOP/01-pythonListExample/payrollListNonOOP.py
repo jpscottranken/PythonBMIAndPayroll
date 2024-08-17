@@ -3,6 +3,8 @@
 '''
 Create a non-Object-Oriented Python console program which does the following:
 
+https://www.w3schools.com/python/python_lists_methods.asp
+
 1.	Uses one or more lists to get the following information about employees:
 
 	a.	Employee number      (must be unique)
